@@ -1,5 +1,6 @@
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -42,4 +43,7 @@ body {
   button:hover {
     background-color: #e0e0e0;
   }
-  
+
+  .git {
+    margin-top: 3rem;
+}
